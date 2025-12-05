@@ -7,4 +7,4 @@
 | 2      | Assignment 2 - Multivariate Regression |  [Code](2_multivariate_regression/ml_lab_assign2.py) |  [Output](2_multivariate_regression/Readme.md) |
 | 3      | Assignment 3 - Binary Classification | [Code](3_binary%20classification/ml_lab_assign3.py) | [Output](3_binary%20classification/readme.md)|
 | 4      | Assignment 4 - Multiclass Classification | [Code](4_multi-class%20classification/ml_lab_assign4.py) | [Output](4_multi-class%20classification/Readme.md)|
-| 5      | Assignment 5 | WIP | WIP|
+| 5      | Assignment 5 - Unsupervised Classification | [Code](5_unsupervised_classification/ml_lab_assign5.py) | [Output](5_unsupervised_classification/Readme.md)
