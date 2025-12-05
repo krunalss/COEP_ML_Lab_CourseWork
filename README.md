@@ -1,4 +1,4 @@
-# Machine Learning Laboratory  Coursework
+# Machine Learning Lab  Coursework
 #### Semester 1 (A. Y. 2025-26)  
 
 | Sr No. | Title                            | Code file                              | Output file                          |
