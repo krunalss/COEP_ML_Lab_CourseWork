@@ -1,5 +1,12 @@
 # Assignment 1 Outputs
-## (Diabetes Linear Regression – Model)
+## (Diabetes - Univariate Linear Regression–Model)
+## Problem Statement
+Pickup any dataset like Diabetes dataset from scikit-learn and solve the problem of linear regression.  
+- a. Apply data pre-processing. Display all the data fields and the subset being used.
+- b. Show the results considering different features, with different parameters like error functions, regularization etc.
+- c. Evaluate using different measures. Make sure the final result is having the least error.
+- d. Visualize the results using matplotlib/ seaborn. Show the regression line.
+## Solultion  
 - Experimented with three linear models – Linear Regression, Ridge, and Lasso – to identify the best performer on the diabetes dataset.  
 - Applied GridSearchCV with cross-validation to tune key hyperparameters (mainly α for Ridge and Lasso) instead of using default values.  
 - Evaluated all models using MSE, RMSE, MAE, and R², and selected the final model based on lowest test RMSE and higher R². 
