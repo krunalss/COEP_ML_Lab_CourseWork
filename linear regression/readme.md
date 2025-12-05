@@ -1,4 +1,5 @@
-# Assignment 1 Outputs(Diabetes Linear Regression – Model)
+# Assignment 1 Outputs
+## (Diabetes Linear Regression – Model)
 
 ## 1. All Features in the Dataset
 _All input feature names (age, sex, bmi, bp, s1–s6) and the target column from the diabetes dataset._
