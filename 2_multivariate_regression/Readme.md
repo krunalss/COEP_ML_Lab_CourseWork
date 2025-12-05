@@ -1,5 +1,12 @@
 # Assignment 2 Outputs
-## (Linnerud dataset - Polynomial Linear Regression–Model)
+## (Linnerud dataset - Polynomial Linear Regression–Model) 
+
+## Problem Statement
+Pickup any dataset from scikit-learn like California housing dataset and solve the problem of multivariate / polynomial regression.  
+a. Apply data pre-processing. Display all the data fields and the subset being used.  
+b. Show the results with different parameters like error functions, regularization  
+c. Evaluate using different measures. Make sure the final result is having the least error.  
+d. Visualize the results using matplotlib/ seaborn. Show the regression plane.  
 
 ### Feature & Target Columns (Initial Preview)
 - Confirms which variables are used as **inputs** and which as **outputs**.
@@ -61,7 +68,7 @@
 
 ---
 
-## 9️⃣ Multi-output Linear Regression (Weight & Waist)
+## Multi-output Linear Regression (Weight & Waist)
 - Shows a true **multi-output (multivariate) regression** model predicting both `Weight` and `Waist` together.
 ![Multi-output regression metrics](allss/Screenshot%202025-12-05%20195007.png)
 
