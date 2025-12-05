@@ -1,5 +1,10 @@
 # Assignment 1 Outputs
 ## (Diabetes Linear Regression – Model)
+- Experimented with three linear models – Linear Regression, Ridge, and Lasso – to identify the best performer on the diabetes dataset.  
+- Applied GridSearchCV with cross-validation to tune key hyperparameters (mainly α for Ridge and Lasso) instead of using default values.  
+- Evaluated all models using MSE, RMSE, MAE, and R², and selected the final model based on lowest test RMSE and higher R². 
+- Created visual comparisons (bar plots and regression lines) to clearly show how each enhancement affected model performance and generalization.  
+
 
 ## 1. All Features in the Dataset
 _All input feature names (age, sex, bmi, bp, s1–s6) and the target column from the diabetes dataset._
