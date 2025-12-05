@@ -1,6 +1,15 @@
 # Assignment 4 Outputs
 ## (Iris -multi-class classification)
 ## Problem Statement
+4. Pickup any dataset from scikit-learn like Iris dataset and solve the problem of multi-class classification.  
+- a. Apply data pre-processing  
+- b. Show the results with different methods  
+  - i. Logistic regression  
+  - ii. KNN  
+  - iii. Decision tree  
+  - iv. SVC  
+- c. Evaluate using different measures. Make sure the final result is having the least error.  
+- d. Visualize the results using matplotlib/ seaborn. Show correlation matrix.  
 ## 1. First Data Preview (Head of Dataset + Target)
 ![Dataset Head](images/Screenshot%202025-12-05%20220116.png)  
 
