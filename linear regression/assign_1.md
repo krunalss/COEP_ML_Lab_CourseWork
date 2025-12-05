@@ -22,7 +22,7 @@ _Summary statistics (count, mean, std, min, max, quartiles) for each standardize
 
 ## 4. Base Model Metrics
 _Table of performance metrics (MSE, RMSE, MAE, R²) for the base Linear, Ridge, and Lasso regression models._  
-![results](COEP_ML_Lab_CourseWork/allSS/results.png)  
+![results](allss/results.png)  
 
 
 ---
